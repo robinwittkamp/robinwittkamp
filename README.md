@@ -4,8 +4,8 @@
 - 👨‍💻 Designed and developed websites and web apps for over four years as a freelancer.
 - 🎓 Studied visual computing and design at the Hamm-Lippstadt University of Applied Sciences.
 - 📖 Wrote my bachelor thesis about code generation with language models.
-- 🔨 Currently working on my new portfolio website.
 - 🌱 Learning more about technologies like Next.js, TailwindCSS, Framer Motion, Three.js and Strapi.
+- 🔨 Currently working on my new portfolio website.
 
 ## 📫 Contact me
 - 📫 Mail: [info@robinwittkamp.com](mailto:info@robinwittkamp.com)
