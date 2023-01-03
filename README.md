@@ -11,6 +11,11 @@
 - 📫 Mail: [info@robinwittkamp.com](mailto:info@robinwittkamp.com)
 - 🌐 Website: [robinwittkamp.com](https://robinwittkamp.com)
 
+## Socials
+- [Twitter](https://twitter.com/robinwittkamp)
+- [LinkedIn](https://www.linkedin.com/in/robinwittkamp/)
+- [Xing](https://www.xing.com/profile/Robin_Wittkamp2/)
+
 <!--
 **robinwittkamp/robinwittkamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
