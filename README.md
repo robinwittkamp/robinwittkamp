@@ -7,7 +7,7 @@
 - 🌱 Learning more about technologies like Next.js, TailwindCSS, Framer Motion, Three.js and Strapi.
 - 🔨 Currently working on my new portfolio website.
 
-## 📫 Contact me
+## Contact
 - 📫 Mail: [info@robinwittkamp.com](mailto:info@robinwittkamp.com)
 - 🌐 Website: [robinwittkamp.com](https://robinwittkamp.com)
 
