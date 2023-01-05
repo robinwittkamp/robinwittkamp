@@ -1,6 +1,6 @@
 # Hi there 👋🏻, I'm Robin.
 
-Developer and designer passionate about tech.
+Web developer and UI/UX designer passionate about tech.
 
 ## About me
 - 👨‍💻 Designed and developed websites and web apps for over four years as a freelancer.
