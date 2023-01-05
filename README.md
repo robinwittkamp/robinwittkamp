@@ -14,6 +14,7 @@ Developer and designer passionate about tech.
 - Frontend: React.js, Next.js, TailwindCSS, Framer Motion, Three.js
 - Backend: Node.js, Express.js
 - Databases: MySQL, PostgreSQL
+- CMS: WordPress, Strapi
 - Dev tools: VSCode, ESLint, Prettier
 - Design tools: Figma, Photoshop, Illustrator
 
