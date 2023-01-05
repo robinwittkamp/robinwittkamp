@@ -9,10 +9,6 @@ Developer and designer passionate about tech.
 - 🌱 Learning more about technologies like Next.js, TailwindCSS, Framer Motion, Three.js and Strapi.
 - 🔨 Currently working on my new portfolio website.
 
-## Contact
-- 📫 Mail: [info@robinwittkamp.com](mailto:info@robinwittkamp.com)
-- 🌐 Website: [robinwittkamp.com](https://robinwittkamp.com)
-
 ## Skills
 - Languages: HTML, CSS, SCSS, JavaScript, TypeScript, PHP, Java, Python
 - Frontend: React.js, Next.js, TailwindCSS, Framer Motion, Three.js
@@ -20,6 +16,10 @@ Developer and designer passionate about tech.
 - Databases: MySQL, PostgreSQL
 - Dev tools: VSCode, ESLint, Prettier
 - Design tools: Figma, Photoshop, Illustrator
+
+## Contact
+- 📫 Mail: [info@robinwittkamp.com](mailto:info@robinwittkamp.com)
+- 🌐 Website: [robinwittkamp.com](https://robinwittkamp.com)
 
 ## Socials
 - [Twitter](https://twitter.com/robinwittkamp)
