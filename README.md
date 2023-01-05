@@ -13,6 +13,14 @@ Developer and designer passionate about tech.
 - 📫 Mail: [info@robinwittkamp.com](mailto:info@robinwittkamp.com)
 - 🌐 Website: [robinwittkamp.com](https://robinwittkamp.com)
 
+## Skills
+- Languages: HTML, CSS, SCSS, JavaScript, TypeScript, PHP, Java, Python
+- Frontend: React.js, Next.js, TailwindCSS, Framer Motion, Three.js
+- Backend: Node.js, Express.js
+- Databases: MySQL, PostgreSQL
+- Dev tools: VSCode, ESLint, Prettier
+- Design tools: Figma, Photoshop, Illustrator
+
 ## Socials
 - [Twitter](https://twitter.com/robinwittkamp)
 - [LinkedIn](https://www.linkedin.com/in/robinwittkamp/)
