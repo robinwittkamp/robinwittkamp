@@ -14,7 +14,7 @@ Web developer and UI/UX designer passionate about tech.
 - Frontend: React.js, Next.js, TailwindCSS, Framer Motion, Three.js
 - Backend: Node.js, Express.js
 - Databases: MySQL, PostgreSQL
-- CMS: WordPress, Strapi
+- CMS: WordPress, Strapi, Sanity, Contentful, Prismic, Storyblok
 - Dev tools: VSCode, ESLint, Prettier
 - Design tools: Figma, Photoshop, Illustrator
 
