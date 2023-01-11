@@ -7,7 +7,7 @@ Web developer and UI/UX designer passionate about tech.
 - 🎓 Studied visual computing and design at the Hamm-Lippstadt University of Applied Sciences.
 - 📖 Wrote my bachelor thesis about code generation with language models.
 - 🌱 Learning more about technologies like Next.js, TailwindCSS, Framer Motion, Three.js and Strapi.
-- 🔨 Currently working on my new portfolio website.
+- 🛠️ Currently working on my new portfolio website.
 
 ## Skills
 - Languages: HTML, CSS, SCSS, JavaScript, TypeScript, PHP, Java, Python
