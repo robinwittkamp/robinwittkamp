@@ -16,7 +16,7 @@ Web developer passionate about design and tech.
 - Databases: MySQL
 - CMS: WordPress, Strapi, Sanity, Contentful, Prismic, Storyblok
 - Hosting & Deployment: Plesk, Vercel
-- Dev tools: Git, npm, Webpack, VSCode, ESLint, Stylelint, Prettier
+- Dev tools: Git, npm, Webpack, Visual Studio Code, ESLint, Stylelint, Prettier
 - Design tools: Figma, Photoshop, Illustrator
 
 ## Contact
