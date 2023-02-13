@@ -1,13 +1,13 @@
 # Hi there 👋🏻, I'm Robin.
 
-Web developer and UI/UX designer passionate about tech.
+Web developer passionate about design and tech.
 
 ## About me
-- 👨‍💻 Designed and developed websites and web apps for over four years as a freelancer.
-- 🎓 Studied visual computing and design at the Hamm-Lippstadt University of Applied Sciences.
+- 👨‍💻 Designed and developed websites and web apps for over four years as a [freelancer](https://robinwittkamp.com).
+- 🎓 Studied [Visual Computing and Design](https://www.hshl.de/en/studying/en-study-programs/en-bachelors-programs/en-visual-computing-and-design/) at the [Hamm-Lippstadt University of Applied Sciences](https://www.hshl.de/en/).
 - 📖 Wrote my bachelor thesis about code generation with language models.
-- 🌱 Learning more about technologies like Next.js, TailwindCSS, Framer Motion, Three.js and Strapi.
-- 🛠️ Currently working on my new portfolio website.
+- 🌱 Learning more about technologies like [Astro](https://astro.build/), [Three.js](https://threejs.org/), [GraphQL](https://graphql.org/) and [Sanity](https://www.sanity.io/).
+- 🛠️ Currently working on my [new portfolio website](https://github.com/robinwittkamp/robinwittkamp.com).
 
 ## Skills
 - Languages: HTML, CSS, SCSS, JavaScript, TypeScript, PHP, Java, Python
