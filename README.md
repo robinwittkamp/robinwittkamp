@@ -12,10 +12,10 @@ Web developer and UI/UX designer passionate about tech.
 ## Skills
 - Languages: HTML, CSS, SCSS, JavaScript, TypeScript, PHP, Java, Python
 - Frontend: React.js, Next.js, TailwindCSS, Framer Motion, Three.js
-- Backend: Node.js, Express.js
-- Databases: MySQL, PostgreSQL
+- Backend: Node.js, Express.js, Rest API
+- Databases: MySQL
 - CMS: WordPress, Strapi, Sanity, Contentful, Prismic, Storyblok
-- Dev tools: VSCode, ESLint, Prettier
+- Dev tools: Git, npm, Webpack, VSCode, ESLint, Stylelint, Prettier
 - Design tools: Figma, Photoshop, Illustrator
 
 ## Contact
