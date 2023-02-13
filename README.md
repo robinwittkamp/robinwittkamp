@@ -15,6 +15,7 @@ Web developer passionate about design and tech.
 - Backend: Node.js, Express.js, Rest API
 - Databases: MySQL
 - CMS: WordPress, Strapi, Sanity, Contentful, Prismic, Storyblok
+- Hosting & Deployment: Plesk, Vercel
 - Dev tools: Git, npm, Webpack, VSCode, ESLint, Stylelint, Prettier
 - Design tools: Figma, Photoshop, Illustrator
 
