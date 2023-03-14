@@ -11,12 +11,12 @@ Web developer passionate about design and tech.
 
 ## Skills
 - Languages: HTML, CSS, SCSS, JavaScript, TypeScript, PHP, Java, Python
-- Frontend: React.js, Next.js, TailwindCSS, Framer Motion, Three.js
+- Frontend: React.js, Next.js, TailwindCSS, Styled Components, Emotion, Framer Motion, Three.js
 - Backend: Node.js, Express.js, Rest API
 - Databases: MySQL
-- CMS: WordPress, Strapi, Sanity, Contentful, Prismic, Storyblok
-- Hosting & Deployment: Plesk, Vercel
-- Dev tools: Git, npm, Webpack, Visual Studio Code, ESLint, Stylelint, Prettier
+- CMS: WordPress, Sanity, Strapi, Contentful, Storyblok, Prismic
+- Hosting & Deployment: Plesk, Vercel, Netlify
+- Dev tools: Git, npm, Webpack, Vite, Visual Studio Code, ESLint, Stylelint, Prettier, Composer
 - Design tools: Figma, Photoshop, Illustrator
 
 ## Contact
