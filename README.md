@@ -1,6 +1,6 @@
 # Hi there 👋🏻, I'm Robin.
 
-Web developer passionate about design and tech.
+Developer passionate about design and tech.
 
 ## About me
 - 👨‍💻 Designed and developed websites and web apps for over four years as a [freelancer](https://robinwittkamp.com).
