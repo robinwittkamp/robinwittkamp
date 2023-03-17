@@ -6,7 +6,7 @@ Web developer passionate about design and tech.
 - 👨‍💻 Designed and developed websites and web apps for over four years as a [freelancer](https://robinwittkamp.com).
 - 🎓 Studied [Visual Computing and Design](https://www.hshl.de/en/studying/en-study-programs/en-bachelors-programs/en-visual-computing-and-design/) at the [Hamm-Lippstadt University of Applied Sciences](https://www.hshl.de/en/).
 - 📖 Wrote my bachelor thesis about code generation with language models.
-- 🌱 Learning more about technologies like [Astro](https://astro.build/), [Three.js](https://threejs.org/), [GraphQL](https://graphql.org/) and [Sanity](https://www.sanity.io/).
+- 🌱 Learning more about technologies like [Astro](https://astro.build/), [GraphQL](https://graphql.org/), [Docker](https://www.docker.com) and [Sanity](https://www.sanity.io/).
 - 🛠️ Currently working on my [new portfolio website](https://github.com/robinwittkamp/robinwittkamp.com).
 
 ## Skills
