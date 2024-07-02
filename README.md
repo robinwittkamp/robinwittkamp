@@ -14,7 +14,7 @@ Developer passionate about design and tech
 ## Skills
 - Languages: HTML, CSS, SCSS, JavaScript, TypeScript, PHP, Java, Python
 - Frontend: React.js, Next.js, TailwindCSS, Styled Components, Emotion, Framer Motion, Three.js
-- Backend: Node.js, Express.js, Java, Rest API
+- Backend: Node.js, Express.js, Java Spring Boot, Rest API
 - Databases: MySQL
 - CMS: WordPress, Sanity, Strapi, Contentful, Storyblok, Prismic
 - Hosting & Deployment: Plesk, Vercel, Netlify
