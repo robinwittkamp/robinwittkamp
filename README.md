@@ -9,11 +9,11 @@
 
 ## Skills
 - Languages: HTML, CSS, SCSS, JavaScript, TypeScript, PHP, Java, Python
-- Frontend: React.js, Next.js, TailwindCSS, MUI, Styled Components, Emotion, Motion, Three.js
+- Frontend: React.js, Next.js, Tailwind CSS, MUI, Styled Components, Emotion, Motion, Three.js
 - Backend: Node.js, Express.js, Java Spring Boot, Laravel, Django
 - API: REST
 - Databases: MySQL, PostgreSQL, HSQL, DB2
-- CMS: WordPress
+- CMS: WordPress, Strapi, Sanity
 - Hosting & Deployment: Plesk, Vercel, Netlify
 - Dev tools: Git, npm, Webpack, Vite, Visual Studio Code, ESLint, Stylelint, Prettier, Composer
 - Design tools: Figma, Photoshop, Illustrator, Affinity
