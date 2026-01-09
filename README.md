@@ -1,9 +1,5 @@
 # Hi there 👋🏻, I'm Robin.
 
-```
-Developer passionate about design and tech
-```
-
 ## About me
 - 👨‍💻 Designed and developed websites and web apps for over six years as a [freelancer](https://robinwittkamp.com).
 - 🎓 Studied [Visual Computing and Design](https://www.hshl.de/en/studying/en-study-programs/en-bachelors-programs/en-visual-computing-and-design/) at the [Hamm-Lippstadt University of Applied Sciences](https://www.hshl.de/en/).
