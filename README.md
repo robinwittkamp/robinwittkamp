@@ -5,21 +5,22 @@ Developer passionate about design and tech
 ```
 
 ## About me
-- 👨‍💻 Designed and developed websites and web apps for over five years as a [freelancer](https://robinwittkamp.com).
+- 👨‍💻 Designed and developed websites and web apps for over six years as a [freelancer](https://robinwittkamp.com).
 - 🎓 Studied [Visual Computing and Design](https://www.hshl.de/en/studying/en-study-programs/en-bachelors-programs/en-visual-computing-and-design/) at the [Hamm-Lippstadt University of Applied Sciences](https://www.hshl.de/en/).
 - 📖 Wrote my bachelor thesis about code generation with language models.
-- 🌱 Learning more about technologies like [Astro](https://astro.build/) and [Next.js](https://nextjs.org/).
-- 🛠️ Currently working on my new website.
+- 🌱 Learning more about AI Agents and Systems Thinking.
+- 🛠️ Currently working full-time as a software developer while pursuing part-time freelance work and personal projects.
 
 ## Skills
 - Languages: HTML, CSS, SCSS, JavaScript, TypeScript, PHP, Java, Python
-- Frontend: React.js, Next.js, TailwindCSS, Styled Components, Emotion, Framer Motion, Three.js
-- Backend: Node.js, Express.js, Java Spring Boot, Rest API
-- Databases: MySQL
-- CMS: WordPress, Sanity, Strapi, Contentful, Storyblok, Prismic
+- Frontend: React.js, Next.js, TailwindCSS, MUI, Styled Components, Emotion, Motion, Three.js
+- Backend: Node.js, Express.js, Java Spring Boot, Laravel, Django
+- API: REST
+- Databases: MySQL, PostgreSQL, HSQL, DB2
+- CMS: WordPress
 - Hosting & Deployment: Plesk, Vercel, Netlify
 - Dev tools: Git, npm, Webpack, Vite, Visual Studio Code, ESLint, Stylelint, Prettier, Composer
-- Design tools: Figma, Photoshop, Illustrator
+- Design tools: Figma, Photoshop, Illustrator, Affinity
 
 ## Contact
 - 📫 Mail: [info@robinwittkamp.com](mailto:info@robinwittkamp.com)
@@ -31,8 +32,6 @@ Developer passionate about design and tech
 - [Xing](https://www.xing.com/profile/Robin_Wittkamp2/)
 
 <!--
-**robinwittkamp/robinwittkamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
